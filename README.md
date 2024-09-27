@@ -9,7 +9,7 @@ Although the current deep learning-based old photos restoration work can repair 
 ![mainPic](./figs/Net.Jpeg)
 
 
-## Getting Started
+## Getting Started 
 ### Dependencies
 Below is the key environment under which the code was developed, not necessarily the minimal requirements:
 
